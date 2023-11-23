@@ -1,0 +1,26 @@
+{
+  "name": "Amy Casey",
+  "age": 20,
+  "address": {
+    "street": "Levsub Loop",
+    "city": "Isamhe",
+    "state": "KS",
+    "zip": "90423"
+  },
+  "contact": {
+    "phone": "(438) 908-6935",
+    "servicePhone": "800256397"
+  },
+  "birthday": "1999-01-14T19:59:25.988Z",
+  "ip": "83.24.155.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Baguc lula silsoto legdud hiw wol ob dobnu surika vo pilvamot tigi. Love vusolamu cesdiwvu ihne ikpi peapohed avuvuf baiduna ectido pabzef cuawda ehwugo azemuf hijet alo tuumo akfu. Godtom bev fuv kafuhgaf ram konnokoh hik gup iticad hiso fom vaom. Va zi onhi kur vafeb zakotwet ufhizra waleeh rajelpin gih ocduus go zu de apipu sauso. Epi jiwpi kebiv re ig sume zedabur sod alwipes ipehope du rolfec igzud utlesur cuh hi.",
+    "bio": "Er agipuga diiku fabid zabhishu goiwamu bi ituzegihu sazav eda pohustu cemut. Ca uc cul pu husruf zo zew werde febil be nakip hut gasak eb. Ceskoku dimo sodira tushaggu kuaga uretuf hegcanhud la dielne nuboep kiwim dofmaz kakguzeg porhickiw lag noljomol tevhow."
+  },
+  "apiKey": "dcd1bdfae0712254b76439866d2a5b81d70a6255279499c73271cc313c94ccc9",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
