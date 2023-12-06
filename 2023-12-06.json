@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Daniels",
+  "age": 48,
+  "address": {
+    "street": "Lapco Drive",
+    "city": "Kopiwpe",
+    "state": "PA",
+    "zip": "46555"
+  },
+  "contact": {
+    "phone": "(955) 909-3399",
+    "servicePhone": "800464923"
+  },
+  "birthday": "1988-01-09T17:24:18.772Z",
+  "ip": "24.250.109.247",
+  "foo": "bar",
+  "profile": {
+    "about": "La ku kolepid hofla oletejviv buhho kuef man mimaihu vini sip ziv ji ihaba aptecavi. Nelor los go ulizales tuopba vum pepgicvoh oseureihu ibu faw fatkomol nep vuun zehbaza. Ce vi geoh zansot pa fatifuj nengef hec cietu wephez fopih hawburur.",
+    "bio": "Wujnuez ece lufjetbe he lub zamubzog go wijija cuggu dujkafe cubi ac. Kurnivil onuba dapur olecob ohabari lifuri gikdiub bus omo ni fo ta godoslod opothe puw kisduoc wuhej go. Biiztiv firbeb epo hecfej abnazror kogvo rincepa repga uvu okogeksu luv ruzev. Mijilo fafna bejuc meudne eno suc kitlovon hodohir tokuoro dozjop wuodugek how hadru lucus zuhok."
+  },
+  "apiKey": "2acc76ac8cb3e7d3209289e16e7df5f943b880d4f2f26ba8c4e363494e30a436",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
