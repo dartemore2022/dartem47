@@ -1,0 +1,26 @@
+{
+  "name": "Millie Crawford",
+  "age": 30,
+  "address": {
+    "street": "Izob Drive",
+    "city": "Loddiwse",
+    "state": "IL",
+    "zip": "40125"
+  },
+  "contact": {
+    "phone": "(835) 911-6438",
+    "servicePhone": "800577713"
+  },
+  "birthday": "1974-03-01T05:26:18.209Z",
+  "ip": "147.156.179.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Nipu udimiehe meb ebwe jufitem lalfekha uka viwapig bofuz ramdalpu beeha jihhoh tim kawzut gefew hujikse ekerop. Odji foiw fawub eggej ja hibosti bubabdol carum vonifkag fovzece fevatza hu feekunu jusboc funozsec. Id pofobulu ri bamhuim wicu mufcoc ekmolkav pukjucvur fijukoavi lozgeiwo ofo vu vag dibi kopidu kafik.",
+    "bio": "Masiwo je cifi volivun de to sunifig fajipa zozeasa fojujab diol nu ne gotuon itmi rab. Ru zufgefet waiwawev tas opibi tizem nudu ev cehkoc jub bupewce hicenar. Cihmip ni tuze abeecediv vogozamih ki kududzi lek ubu jakmo lutfi tutij mun jofe."
+  },
+  "apiKey": "451f14d7ed8439a4e85b3bbf79e6b83e6c253fb7a412f478b01810efc1c12209",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
