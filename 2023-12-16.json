@@ -1,0 +1,26 @@
+{
+  "name": "Ian Blake",
+  "age": 41,
+  "address": {
+    "street": "Kidcuk View",
+    "city": "Ginojda",
+    "state": "CA",
+    "zip": "80265"
+  },
+  "contact": {
+    "phone": "(779) 774-9526",
+    "servicePhone": "800778194"
+  },
+  "birthday": "2001-12-07T10:21:36.581Z",
+  "ip": "78.64.77.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Gitbaniji taigal pigaklor gokem jos bi sekun ga kuwuila pe ucovop ducumo. Fekinhog vulrol nicwa mafuj mew zokaduk sihofe av tusurza lumuk nijvuw leguso divuv ruwsikaw ruce genpo zomluhude kub. Pilribwus wetih var borbibke viz fubemnap tohet sugek hem rupob fas lite cothekif lu.",
+    "bio": "Awipo poifuuza siluc jur ilfiewi nuhdaja tit epsevbiz goarze benosu curidhu ojedoug sielo nechab sahnew kij. Izuviped lis wa tif vilakir du bu lif hozagij ma alno hawaopi pime on nup dig deji tiudu. Ri tatfajmu apiamo nibebi ve zezuj fubiijo vuvibva iri ro vafuz juz mo mof rerhu. Jofed awvu acerugta uze oraukuri voet penozeku ri ruizwi dijgiba pamtefku obzupleb omocuvak rakgo."
+  },
+  "apiKey": "914376594564c7575989f5054bc687a9f2c037bb77b9b859420e47150359b43f",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
