@@ -1,0 +1,26 @@
+{
+  "name": "Mary Lloyd",
+  "age": 46,
+  "address": {
+    "street": "Motop Heights",
+    "city": "Ehoargoh",
+    "state": "WY",
+    "zip": "45667"
+  },
+  "contact": {
+    "phone": "(434) 999-6540",
+    "servicePhone": "800447953"
+  },
+  "birthday": "1991-05-11T19:32:47.107Z",
+  "ip": "216.194.85.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibas faatki afa vo cuuwaasu ribguvuk wijla lafiog rujerta ori maihi danud vonip bo ves nebkas. Lopbuiv rav uzomepig jemaac ewco biek je unumo lu duge po ubi lowokder ponace gepac. Revu ciwhez ruoz dukhe wujsajal jal wefuli ma vobu poza mungapzu mob hiriga vadto.",
+    "bio": "Ni juahaja ivuwan cuiba cituvgi rihjop so nabeje nacapuz isoaviruz rih hurwij tiij. Ehcabgef higec eheuhaje jirdeeda fokatmi webbobdo pipra ucu rizabuusu gi mazceibi lobasvi. Wuicuon nec nuja es zopaki iz waglak za apeno bivudta ri pupaed bero pesur sefu avuwezfo ownemup go. Kunem osbo saezegun moozi osiki he jacnud siaputir vorbohuk zitas za disuswa wocpas."
+  },
+  "apiKey": "49fe15a215bf32fe65845fcbb170f2c221fbc41ee2b442d3e0061c332c982ec1",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
