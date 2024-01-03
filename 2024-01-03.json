@@ -1,0 +1,26 @@
+{
+  "name": "Lela Walsh",
+  "age": 56,
+  "address": {
+    "street": "Nubmaz Way",
+    "city": "Vepetro",
+    "state": "HI",
+    "zip": "45139"
+  },
+  "contact": {
+    "phone": "(649) 992-5740",
+    "servicePhone": "800169652"
+  },
+  "birthday": "1984-01-07T02:47:32.157Z",
+  "ip": "228.198.250.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Fahvec wokah fikog alouhpeh gur muna esipulu vabde if inosod haase huit faziw niod. Tejja durbu re oh avgu rusofkej usnic luckera kaj odemuctov ovekakevu kezfug ipal nuv ma wukwo. Wepcu ina dela nazorzed ifotuj nuk nadonek hasho culeum useilci afe nubtomec toom.",
+    "bio": "Felbe numsezeri faafe ju ituko fi pip gu wo julovo dibre odu lawjuwe vu mofzeg dalzesiw esu. Fi jidha wiones fe ikodaek jisuj bireruhu tiiso ot cemwidbuc peled vizez. Di afhul keesneh oj maevben pakjal haene iw piwop iwapoam howig nogop oliiw meuta gotu ij muczo. Sar muuj wu ret pirve vogab zivijvu iru rukap ser pilomta we raomeon rommav zeenumac. Cewpispuj podfunef ow lapi noj mirvelu tamap gekmin ge hojbi pu fewwej ko zid cac jeefi bine sujoefo. Ew daf ufunevli sic bimo lin nik basnab zokez okido lor hufeno terli riwpe heh fa do. Ne gaccatid fogheb la biira di hu ugcas visemfu cemjo riwe ojtaw otrabwep vudef ehomerme."
+  },
+  "apiKey": "262b0ae84a1038615ede9fedb57df3ace2ac3540042318c6f825be028c9f42fc",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
