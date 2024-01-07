@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Chambers",
+  "age": 37,
+  "address": {
+    "street": "Gori Path",
+    "city": "Puolow",
+    "state": "MO",
+    "zip": "40018"
+  },
+  "contact": {
+    "phone": "(217) 627-5685",
+    "servicePhone": "800767733"
+  },
+  "birthday": "1975-01-29T19:24:51.765Z",
+  "ip": "202.255.8.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Di hupu kitnifan etiwo kam dog ducugba goabbah oto ba udikumu teatpej. Ko ac gos wuccemo elube nuvovbo avpigas digodu ukaufa eri janenoha sarsag rokmut hod dakiz mog pas. Fufobo safzidu mijne sumo nuuvge pi dalu pet cinjar nidu sad bi pobzewe ihobetfob juksotij mamomak.",
+    "bio": "Coduwa akukocer zomuigu awze hah zur di mufapiz ew reopu fe iropo bupi botus capod. Nus mafaniv sufcot ti wefwavhab hetwamge douvo kiil ogjel cufhot odzawnow jowtoze zetez mopa heru ekociw kavi. Ij lem sidgazgu hoiwisu gav hu ruf ba turha hawolteg wumufe bu dore ge luregi ruzru arazuka sega."
+  },
+  "apiKey": "42444506caa98319a1f270acf49aa34a66a796652eda39ac61a55f4d4d5199fd",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
