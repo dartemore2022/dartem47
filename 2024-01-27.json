@@ -1,0 +1,26 @@
+{
+  "name": "Derek Hodges",
+  "age": 54,
+  "address": {
+    "street": "Suese Path",
+    "city": "Nerhaole",
+    "state": "ME",
+    "zip": "02164"
+  },
+  "contact": {
+    "phone": "(589) 498-2518",
+    "servicePhone": "800181218"
+  },
+  "birthday": "1965-02-11T17:25:35.404Z",
+  "ip": "231.25.96.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugimowob dacus uni bodu nuwosigib dumewa sitgib daarfez girupo ufo lune asi ruz ecwemnug rocteti vutdi. Hokmuvku leore cotgu doznin taleh wuju mooli sopasu fuc bav mij ifewa pibgunoh geebomu kufkup. Judepgoc mazon gitu jamwidli icemiup jomecgur abgaf dibesac kivermu fodmiko raji reipi.",
+    "bio": "Heszazu radahag udtopum ecu ilu bupoma ecuik otnera rupjir ewi bip estepga zu ta pefatmim re dew. Dobafih desala fof kusik lu uj osurob jofdu fevcefi labmotuz ra uhuofi gigajabem vab todfehbe. Go nowuh pi genrod ol uruivju gagu bilapit ce letabahu mo jomahil se vegahoceh de."
+  },
+  "apiKey": "60d164b271190733944d2a0b007e6a584d46b81e6361321cfab30afbfb2cd99e",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
