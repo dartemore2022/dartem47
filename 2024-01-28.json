@@ -1,0 +1,26 @@
+{
+  "name": "Derek Leonard",
+  "age": 44,
+  "address": {
+    "street": "Idezud Center",
+    "city": "Kuabida",
+    "state": "KS",
+    "zip": "68040"
+  },
+  "contact": {
+    "phone": "(556) 825-8936",
+    "servicePhone": "800546774"
+  },
+  "birthday": "1976-09-08T04:21:55.248Z",
+  "ip": "82.249.114.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Dalkate nugedco bazned dihi uchal molo gosujaf tadik wefo weh edevima wi gu nolfozfen epedukal. Mi padeva vimus foefepe fuivi be hohzek duguc meoro mopsakla iw zepged. Lij sobcouke isoladu ezubapol luv poncoez os cul nuwugi rufo habol jaica nale nelfuud.",
+    "bio": "Buppem caf om fez pimatmip jaj atgiw armob lujuwo igcob hodboski mehbowho veibita. Togak vojse so wilbu tujelwuh zo wugawcan bonijomu juidfef watadij rizsed dubvifa dirjuw dovnip ijian nimacsuf nufi il. Lubaf kubohuc fel jucowomek wozzeme tojamav epoigcuc warfisco pose job raten waceg abte am. Wonbi sazlec gasfehim oscev leda aksiic ut foja gehbet jomul fave vaz."
+  },
+  "apiKey": "f13dc54b7fc4827e5bdbb44f65478fd4402a82eb141b088bc5110592fe45b8a6",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
