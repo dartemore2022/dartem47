@@ -1,0 +1,26 @@
+{
+  "name": "Norman Black",
+  "age": 34,
+  "address": {
+    "street": "Kijo Heights",
+    "city": "Gewjufo",
+    "state": "NY",
+    "zip": "09114"
+  },
+  "contact": {
+    "phone": "(749) 949-8762",
+    "servicePhone": "800312415"
+  },
+  "birthday": "2000-06-19T04:51:35.540Z",
+  "ip": "208.83.100.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Hufak fukhitmam loeha bo teivtor uddo zarus ka hut luksec ufiwzi rolpur hep ri. Fu vij zis nekoju job me wubusis juscov ecosi ci ukduuz derbit ve ejohuwev befodir. Su vuskoj nur ruspu ga feplelda kal tawjo gegrokec muzivic jat tor caleg ajhij.",
+    "bio": "Eki vipoupe henbuhjel nizcud wijopom pakdetful vu oc pewub si ebnig kogse. Fuab jacuku naves go koztos ba gemu puhvewum igideahe od atku gomerodug edise bu et ducu suh vufkev. Cuopo guso miero vecuwuro azzetit lorob uzvap ezjoh wefe de bucsi varmuc. Desa uhunoh ga zo kegusod pum enupijdiw hasushe ke fibhigaf kevki inmew sokeb."
+  },
+  "apiKey": "2f4cc3c7a2f809cb2140ac72d325c444f9862ddb596b8739fcff9c56fd052613",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
