@@ -1,0 +1,26 @@
+{
+  "name": "Ola Williamson",
+  "age": 32,
+  "address": {
+    "street": "Maam Court",
+    "city": "Ilepuga",
+    "state": "WA",
+    "zip": "15768"
+  },
+  "contact": {
+    "phone": "(911) 646-5905",
+    "servicePhone": "800545645"
+  },
+  "birthday": "2000-12-10T13:08:12.306Z",
+  "ip": "238.57.86.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Eco har emretuz li wilecital vogizfo upotel divivta degwo gancuc iju dosfanna wefdamkej at jiuldor ap huc moudawa. Gitfi toofte jezibo juigo uwusejvu pujgamaru cadfitos ge awepobtu wesrujheh do zeh le arpubpob soar. Mifow urerpij ic ihfaze poboloto boj gocrapob wifuhi rigeek rudeg cikawiwi vatnibow izug leenilu ulur co telil. Jaw fu sejwi sa pic coag humkodki voram nure muukukec vav tober kuofu hahwu zodzuphe desu. Una lodumu paziw ekkabi bamenguv gos ena hohepbut anoku vog be papba ikoidcuk rif. Waube vu ve giz zogehmoz hevsitu cailbo gosladas atjuc viufizas pajut erakof dectuz. Ebo nivkup toluksef bomejote gup zir ku egalejkaj jehu tersavvu ba gewefu bom tuw guho.",
+    "bio": "Uriwo cih opurule eheuppoh ro sef beosram woamohet niefmi zob sorze her tiz kilsolno paob. Luvzok lo azbeeci fehcummi ulima fa ip necu wikrosil jidmul rus toszolco pofo gud eguwu ewage puvotdo gi. Doz vain zaogutem wejor dokcufju sik fandikdod nesparag no no ro ciw."
+  },
+  "apiKey": "b9ab0b797d020c38b3fc93528bfd21123cde18c6528e624eefed9ecbacc9cdf9",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
