@@ -1,0 +1,26 @@
+{
+  "name": "Susan Gill",
+  "age": 54,
+  "address": {
+    "street": "Bewlac Park",
+    "city": "Bedifwap",
+    "state": "MI",
+    "zip": "68040"
+  },
+  "contact": {
+    "phone": "(870) 695-7422",
+    "servicePhone": "800632367"
+  },
+  "birthday": "1973-11-06T19:05:10.255Z",
+  "ip": "71.184.241.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Faibude pighamu dapwo umin ru kamaplav raus padgar iwi pumsiak bo ro saz teev. Papcerfe luthan orzegib men zo wafoj femikve pak odegefu menezar neoja hikto. Gih poibiusa furmez delo ihoffo ha gezig abalaz bidiho unlu okupeh lunhorik cizkenor timdev jitice ozatuf omtop zabudle.",
+    "bio": "Bahiuz vuswudzeb eh mawfiw roj tijletvo ki jo gejuhmap ahdilor zurniwa olcon micig fepre vuvhoza tiwacar ca zosni. Kapil kiplejra acazo pog cunvadci wafome fajcihor moimo fikot dakuhve roafo eveto moh munud fipsugwo. Bor ejoud gibuta cerij mifof vecbo novukzih igo jor fatuz en at nubu duffuh hilpoj nupeove tambepba hakage."
+  },
+  "apiKey": "6d86402efdb3f5c70a9ca217ae2954a98053ca060fc4f5b2a071041e53a7e06a",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
