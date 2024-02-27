@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Long",
+  "age": 21,
+  "address": {
+    "street": "Nigad Boulevard",
+    "city": "Kaoseasi",
+    "state": "NC",
+    "zip": "30593"
+  },
+  "contact": {
+    "phone": "(361) 311-2144",
+    "servicePhone": "800958947"
+  },
+  "birthday": "1989-09-06T10:56:57.385Z",
+  "ip": "55.253.12.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Celonguk efaatusij as dera miffuwa sule podi omi cusiswut hefuj hurki jifi kim. Adi be lalar ti moco ligu wevvujvu apiawuse nisow kar pomij pamuvli nicrivre di lobeg tum. Hovihfiz giweg pec nudwod en zovduzcug bacme eguse tovophe esicinaj gechoffo loh teju ve fud ran. Vofeju bul degumu osaluk girar cugzep oloago deas adgod rov suawgu kofede rupkec inogazo.",
+    "bio": "Joagwu sebgaoze wisinuz ednu lopijvab jujhov lic sudsar to hufi awure saowefa dephe meuli fawite uwubacoj. Mujvap nidibe nic ikoregol vi dafcaw rawladu hamew fumu rirek ajopomce ekaekokok moboc zoduhede ruzvu. Nuh hojiumu ril betub nu hatnuc vijezon boz otuponva cezdu vul pow jorip."
+  },
+  "apiKey": "5d721ba8968b98ff5436c30e47346156e679b0a083ee688bbef57743696b170a",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
