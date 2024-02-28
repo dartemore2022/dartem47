@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Robinson",
+  "age": 24,
+  "address": {
+    "street": "Segde Pike",
+    "city": "Hutilaj",
+    "state": "MA",
+    "zip": "00450"
+  },
+  "contact": {
+    "phone": "(668) 894-1020",
+    "servicePhone": "800945616"
+  },
+  "birthday": "1979-08-22T03:30:23.318Z",
+  "ip": "245.123.53.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuijeto buzeb pek obu tabuz socgor ebirus rumlikfe onigiwoz jed te ko efzi. Janezgih je pipu becos iruovoho atadubo efo mu laziedi sun kolpuc lul zariego fedpowde ci wo. Zakitvi hi vupokuf ekvetsa ropuwi jerofuuve lib bi rulsu enulogubu zapbop zemebuz lutcajif. Ani ruwakagiw ta upopag metonac wi adkov tipnajgug vahirlu ihodabes bamiv opufoez kosiw rij. Wil lom rofde woaku feho becpufon satvinwud zeusaujo iwasuiho ma kevife oczonud. Sa ugbesod kezsil zuwov muwaf ne usi muruc ci ramosagi pihug bagav.",
+    "bio": "Doino unzit lablik nek vov gu seun veg ebuzetnam pafzimi ladlod dawpabul. Acu giimi masrinog vekcaw iciaf ma jog gadumo bopedite upesoson peho rikedi wu milpe doip so low. Mochih hir jicotifa zozno zalrukeba zugumeme dipuzha migaj taewzen ap oznefoki tusomad keimvi."
+  },
+  "apiKey": "160e79a304f499f156f594fe85681733d698e39602370d88571b2bd5c2e75fad",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
