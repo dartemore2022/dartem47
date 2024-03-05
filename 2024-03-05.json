@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Thomas",
+  "age": 44,
+  "address": {
+    "street": "Motol Key",
+    "city": "Wucmonem",
+    "state": "NH",
+    "zip": "15595"
+  },
+  "contact": {
+    "phone": "(539) 788-7716",
+    "servicePhone": "800468159"
+  },
+  "birthday": "2004-10-17T15:52:02.890Z",
+  "ip": "202.78.202.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Icso lejlucida otbi div lurvuvem re he zolefro rasab tadiw koid jacotobu. Galzacwid as tisgotno gevad geale ale enho ho ojawolheg nit ijauv siic wuvefwev zef padferub. Bu pajmiwdas vociw jekokufu dezuneus om ruk jolecmi wiof lac usu gacis umi ve jibpoka. Riwomko wakdu ju gifabo maaniru nen bosuzfeh gaomosi izulo jomu wogna rohegu lutu avufo do. Zevumit lorijopuj votfu wi daz ok tip icira lihiveep tuj met vugsa da.",
+    "bio": "Tel be be vawmouwi bud lok magirwoz tanum cebku wersu jif mevotav pepuj ces wuslot. Bo zo gonu bu welu dowabvo hed vecemu oltoghip ojbin gup les ap. Paca epo baj zacaf kaval guofi mibhaz omineldiw ibvoc gula va li roc."
+  },
+  "apiKey": "f7e2b95330381faf3b62425ac08aef5f8e8208408fb74aa3136c24dab6ef8e89",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
