@@ -1,0 +1,26 @@
+{
+  "name": "Austin Ray",
+  "age": 41,
+  "address": {
+    "street": "Umzir Ridge",
+    "city": "Ekgaiv",
+    "state": "VA",
+    "zip": "66230"
+  },
+  "contact": {
+    "phone": "(451) 201-3278",
+    "servicePhone": "800445436"
+  },
+  "birthday": "1984-04-13T06:30:02.597Z",
+  "ip": "50.143.234.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Jesobo ahpeewo fumra ovazaw puiwaki poloh rutohuca mu lunsonhiz li gi eke ju bik ve kewi inagip. Maufa sutuba putileki remugu re tabmu owi ofgurhav suzin na wol fuszupe ojipec. Raawolu sa lolipno jazwiw ihusu jazmedru gaflu ki sa po hagefab sugup tivlovup fo pajuweruv babilu ri no. Ebu ritawlu tafag lawup uwu togvo da bor vore do ir dugamnag meakwu balonkab uzeedzuw. Kafsiib jilduvco susi mimjotjes aki pitte ake rolrippow dok heir olalehnu jaico gew wer niogo.",
+    "bio": "Vomfo mikfow cuh upi piv jo peomved ab rihogih vikwi rair ebi ivbal. Lelotnu letbik sacsuhkac jo wuk co nur pacig bilso vem at id goje otju fisjuc caog wi. Ga gut wijluewa huzvu po bawirbe wug gumaz helepab ino wiguv ze wiwof sebfub herpal copzaf bar. Jeezawit ogisizid zeos rumano sivoc vuv evibeon bisca gi cizewzif eccaipu ozilun otjimave afofoju retes mib rot."
+  },
+  "apiKey": "94d493a5b4440bc233037fdb23eb0b0c508cd18d988cd4df0c1a55832fe719b6",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
