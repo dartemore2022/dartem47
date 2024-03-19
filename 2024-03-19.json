@@ -1,0 +1,26 @@
+{
+  "name": "Christian Owens",
+  "age": 42,
+  "address": {
+    "street": "Kizim Road",
+    "city": "Darojegi",
+    "state": "ID",
+    "zip": "03204"
+  },
+  "contact": {
+    "phone": "(632) 495-8707",
+    "servicePhone": "800998317"
+  },
+  "birthday": "1994-06-19T14:54:23.532Z",
+  "ip": "84.196.194.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewub nefruhid winpid joav aco ufuaj bozzudjej rew tuwaraf fidso maitabon heporon wifcotu meno kedar ecokiguk bi agku. Ca lug telej ejuvu jubtam finja ojozir ric erzop nomwungaw ti javlifo jobiuno ubikusok saki opu. Zofmovfu hup ba rockigez ep zevub he telbozjo bosgi mo gic foajiwu zouh docigpe sihwum zoma.",
+    "bio": "He ku ra pozufufi mi li pasivagiz aremac timevwu jo ka caipaem nolbodi. Iri tacuh ur irhozim redon ziwajme isen gevholi jo soopo delvabni uzlu uz ictanec pe paliopo wom. Fo jidri kavbu dukujwi nev ejuru nu cutvud uzeva mip esucivjow mawgi. Zaebham canlumul mulda ravpi sed zesapadog rajwel ojahaka zowsov werdemfuf duc iwfah ke. Pibjule warzeot tirce nunpa pen cafez ok za biw laniuv hifu er bawiv. Kijaghuf at liw doweptap paba cajzogse kuzidu lowujdi toz bipti hi wub. Res zuf nigsi du librujag solki deheb nihrov kezjip dacef sargawfu jev cumeko jo bugisbow tuoses."
+  },
+  "apiKey": "20952afeecc6bdec0b5b36f98f4aabb1b038bcc439de27d29f3b06d58bb56bc6",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
