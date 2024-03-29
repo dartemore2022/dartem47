@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Warren",
+  "age": 38,
+  "address": {
+    "street": "Vidti Boulevard",
+    "city": "Jetirweg",
+    "state": "SC",
+    "zip": "63764"
+  },
+  "contact": {
+    "phone": "(332) 322-1791",
+    "servicePhone": "800399812"
+  },
+  "birthday": "1973-07-31T17:10:27.902Z",
+  "ip": "33.223.107.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Zelinje girzasimi kowgiw wujizic fa jan riwiciv hija ku cumas iweer ja tavwu. Sico takof vun aw nu zavubo nuij nirgok ka nog anupeuru rok kajsih uciguzu vifabsir du. Kedpu ij tuah hakel erito wic mueju pug vedcanpag cuoro didbop bos vahonaj wehzuh.",
+    "bio": "Elooh jid uza eko top zu awugoab irbupi tib ajeahioc kevre feksejrud fok sejba. Vaz pi ernurok ca bivfu dat sos bim noz gimugal lu tad nola dusu eklozid. Wu num mahaido fihev culib ukbur du ed fan bi vuakke iru kuvak hiijovip. Lifocaje ecde zek tacol azedso damu peifo actonek nopwitvid ekulos ko surgal luf pebom kersa. Hemepde ada ifo udaon cip am wuehipu wo ahzoj ew hihge kewmo. Zu nurualo fonesa pencu ramagvo re umepihoj umabka da im zahiv koj nuzoc rehfojsuj. Mo pofafum enpi wuhcog dukodfu dicvew nihlebul wur wandolge dog nuami boipo anikas matpa uzajon lije cap."
+  },
+  "apiKey": "74c1e86069fd82538b92a894a0d9aef8b2ec5b5328ef43609610541f6773824a",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
