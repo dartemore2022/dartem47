@@ -1,0 +1,26 @@
+{
+  "name": "Marc Romero",
+  "age": 62,
+  "address": {
+    "street": "Dedce Street",
+    "city": "Julifgod",
+    "state": "WI",
+    "zip": "59370"
+  },
+  "contact": {
+    "phone": "(783) 763-9732",
+    "servicePhone": "800686686"
+  },
+  "birthday": "2003-08-20T13:16:01.305Z",
+  "ip": "51.89.248.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ico jo jeam hug zoifoko biv semurbuv tu kopwo litmida udodacuv lu. Selukotu uv vuhip wemefjor dak venolo bukbemke miliv heci ka de heznif ezizerco. Imnikuc ga si co sih ijjuso zalalcuf relvimo vudnu zan lapkimu wa. Ibcu woh gucriv ji pugahkig meni peotkij sifuisa giv vekon zow gaanese evuko wujirinut fetdifa kurav kavku wib. Awifdu wuh gunene luzopab kedonuw nijezruw hu epowun naumo fu fu naz az gu lohet uk besuf simul.",
+    "bio": "Ijirowriz ufa ci fisrastut ru elu kesu sizi letongis an jal egjut wosiwu. Teb movbov ujewoc fihduj ru ovegila ekbudu hawnej afa forucoj forano avpohoza ipaenudi iji de. Ogehuhjo meob va un bibgac amoha sekhobow veba kivsilbav bu livezru bik sisvo ewunuczor ho ido vese."
+  },
+  "apiKey": "e33d61cd1929cd7a1f281c0863f6202585d22dca9d4cd633d5d23b53eb21c602",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
